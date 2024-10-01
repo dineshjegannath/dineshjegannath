@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dinesh jegannath
+- 👋 Hi, I’m Dinesh Jegannath
 - 👀 I’m interested in pragramming, data analytics
 - 🌱 I’m currently pursuing my Master's in University of Michigan 
 - 💞️ I’m looking to collaborate on new projects
